@@ -46,6 +46,7 @@ cd book_review
   MONGO_URI=your_mongodb_connection_string
   JWT_SECRET=your_super_secret_key```
 
+### start the server
   ```bash
   npm run dev```
 
