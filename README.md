@@ -2,7 +2,12 @@
 
 A full-stack book review web application built with **Node.js**, **Express**, **MongoDB Atlas**, and **React**. Admin users can add books, and all users can browse, search, and review them.
 
----
+# Screenshots
+https://github.com/rachitkum/book_review/blob/main/bookrev1.PNG
+
+https://github.com/rachitkum/book_review/blob/main/bookrev2.PNG
+
+https://github.com/rachitkum/book_review/blob/main/bookrev3.PNG
 
 ## 🔧 Tech Stack
 
@@ -44,16 +49,19 @@ cd book_review
   ```bash
   PORT=5000
   MONGO_URI=your_mongodb_connection_string
-  JWT_SECRET=your_super_secret_key```
+  JWT_SECRET=your_super_secret_key
+  ```
 
 ### start the server
   ```bash
-  npm run dev```
+  npm run dev
+  ```
 
 ### Frontend
 
   ```bash
   cd frontend/book-ui
   npm install
-  npm start```
+  npm start
+  ```
 
