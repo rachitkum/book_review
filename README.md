@@ -29,26 +29,27 @@ A full-stack book review web application built with **Node.js**, **Express**, **
 
 ### 🔃 Clone the repository
 
-```bash
-git clone https://github.com/rachitkum/book_review.git
-cd book_review```
-```bash
-npm install```
+  ```bash
+  git clone https://github.com/rachitkum/book_review.git
+  cd book_review
+
+  ```bash
+  npm install
 
 Create .env file
 
-```bash
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_super_secret_key```
+  ```bash
+  PORT=5000
+  MONGO_URI=your_mongodb_connection_string
+  JWT_SECRET=your_super_secret_key```
 
-```bash
-npm run dev```
+  ```bash
+  npm run dev```
 
 ### Frontend
 
-```bash
-cd frontend/book-ui
-npm install
-npm start```
+  ```bash
+  cd frontend/book-ui
+  npm install
+  npm start```
 
