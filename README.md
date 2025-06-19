@@ -32,7 +32,6 @@ A full-stack book review web application built with **Node.js**, **Express**, **
 ```bash
 git clone https://github.com/rachitkum/book_review.git
 cd book_review
-
 ```bash
 npm install
 
