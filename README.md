@@ -3,7 +3,7 @@
 A full-stack book review web application built with **Node.js**, **Express**, **MongoDB Atlas**, and **React**. Admin users can add books, and all users can browse, search, and review them.
 
 # Screenshots
-https://github.com/rachitkum/book_review/blob/main/bookrev1.PNG
+![img 1](https://github.com/rachitkum/book_review/blob/main/bookrev1.PNG)
 
 https://github.com/rachitkum/book_review/blob/main/bookrev2.PNG
 
