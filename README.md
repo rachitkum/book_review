@@ -29,14 +29,17 @@ A full-stack book review web application built with **Node.js**, **Express**, **
 
 ### 🔃 Clone the repository
 
-  ```bash
-  git clone https://github.com/rachitkum/book_review.git
-  cd book_review
+```bash
+git clone https://github.com/rachitkum/book_review.git
+cd book_review
+```
 
+### 🛠️ Backend Setup
   ```bash
   npm install
+  ```
 
-Create .env file
+### Create .env file
 
   ```bash
   PORT=5000
